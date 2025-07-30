@@ -1,2 +1,2 @@
 # Dom-Bosco
- Repositório de teste para o site
+ Repositório de teste

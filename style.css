@@ -1,4 +1,4 @@
-@import url(./paragrafos.css);
+@import url(./styles/paragrafos.css);
 
 :root {
   --cor-principal: #3811e6;
@@ -19,6 +19,6 @@ a {
   font-style: italic;
 }
 
-.Hello {
+.helo {
   color: var(--cor-principal);
 }
